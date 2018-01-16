@@ -2,7 +2,7 @@
 
 The Zcash Foundation is offering grants to fund projects proposed and carried out by Zcash community members, similar to the [2017Q4 Grant Program](https://github.com/ZcashFoundation/GrantProposals-2017Q4).
 
-**Please note: we are in the initial stages of planning Q2's grant program, and all details haven't been established yet (review committee, important dates, money to disburse, etc.). But the proposal process will be very similar to before, so feel free to contirbute issues/proposals early, and we'll be sure to broadcast when final dates have been selected.**
+**Please note: we are in the initial stages of planning Q2's grant program--the program has not yet received board approval--and all details haven't been established yet (review committee, important dates, money to disburse, etc.). But the proposal process will be very similar to before, so feel free to contirbute issues/proposals early, and we'll be sure to broadcast when final dates have been selected.**
 
 ## Scope
 
