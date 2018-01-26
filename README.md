@@ -22,9 +22,9 @@ The new Zcash Foundation Grants aim for a systematic, forward-looking mechanism 
 
 ## The Proposal Process
 
-1. The proposer files a pre-proposal *Issue* in this dedicated Github repository: https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues The *Issue* should explain the tentative proposal–informally but in detail. This must be done by **[TODO: DATE TBD]** 
-1. Public discussion will ensue in comments on the pre-proposal *Issue*. The discussion will hopefully include support, critique, suggestions for improvements, and pointers to relevant resources.
-1. The Zcash Foundation Grant Review committee—as a result of this debate, and its discretion—will advise pre-proposals if they are strong candidates and will invite them to submit a full, stand-alone proposal. For others they will advise grants are unlikely to be awarded—but this advice will be provisional and will not restrict any pre-proposal for final submission.
+1. The proposer files a *pre-proposal* in this dedicated Github repository: https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues The should explain the tentative proposal–informally but in detail. This must be done by **[TODO: DATE TBD]** 
+1. Public discussion will ensue in comments on the *pre-proposal*. The discussion will hopefully include support, critique, suggestions for improvements, and pointers to relevant resources.
+1. The Zcash Foundation Grant Review committee will, following this discussion, inform proposers whether they are invited to submit a full proposal. This invitation is advisory, and indicates the committee's evaluation of whether it is likely that a submission along the lines outlined in pre-proposal can be strong candidate for funding. Whether to proceed with the submission remains at the discretion of the proposers.
 1. Subsequently, and no later than **[TODO: DATE TBD]**: the proposer will post a formal stand-alone Submission document, as an attachment in the issue. The Submission should summarize the official proposal, following the structure outlined below. The proposer may revise the Submission, e.g., to address ongoing feedback, by filing new versions of pre-proposals as attachments in the *Issue*, until the Submission Deadline of **[TODO: DATE TBD].**
 1. After the Submission Deadline, the Zcash Foundation Grant Review Committee will convene to make its funding decision, based on the submissions, the community feedback gathered in the issues, and possibly other consultation.
 
@@ -58,7 +58,7 @@ What is your timeline for the project? Please list several concrete milestones a
 
 **Budget and justification**
 
-How much money do you need, and how will you spend it (e.g., compensation for your effort, specific equipment, specific external services)?
+How much money do you need, and how will you spend it (e.g., compensation for your effort, specific equipment, specific external services)? Specify a total in USD, and its breakup into 1-6 budget items with their rationale. Multiple alternatives, with different scope and cost, can be provided.
 
 We expect a typical project to require approximately 3 pages to adequately discuss the above.
 
@@ -107,7 +107,7 @@ Though we don't have concrete timelines yet, it's very likely that the due date 
 
 Submitted proposals and discussions should be productive and respectful. For guidance on this, see the [Zcash Code of Conduct.](https://github.com/zcash/zcash/blob/master/code_of_conduct.md) Inappropriate posts or comments will be closed (but archived for post hoc review) by Foundation directors or staff.
 
-Pseudonymous submissions are allowed and encouraged—however, please note that due to the Foundation's reporting requirements as a 501(c)3 that your identity will need to be revealed to Foundation personnel and we'll need to collect and report tax information to the IRS.
+Pseudonymous submissions are permitted. However, note that one of the evaluation criteria is the team's established qualifications. Also, note that due to the Foundation's reporting requirements as a 501(c)3 that your identity will need to be revealed to Foundation personnel and we'll need to collect and report tax information to the IRS.
 
 ## Writing Tips and Contact Information
 
