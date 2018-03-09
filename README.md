@@ -66,9 +66,9 @@ We expect a typical project to require approximately 3 pages to adequately discu
 
 GitHub issues are great for public discussion but the review committee occasionally prefers email addresses for direct communication.
 
-## Progress Report
+## Progress Reports
 
-Funded projects will be required to submit a short report 6 months after receiving funding—for the sake of transparency, ease of locating products, and evaluating future proposals from the same proposers.
+Funded projects will be required to submit periodic progress reports every month to the [general Zcash Foundation mailing list.](https://lists.z.cash.foundation/mailman/listinfo/general), and a more comprehensive report 6 months after receiving funding—for the sake of transparency, ease of locating products, and evaluating future proposals from the same proposers. Additionally, at the *Zcash Foundation Grant Review Committe's* discretion, funding may not be fully granted until successful completion of initial progress reports.
 
 ## Payment
 
@@ -78,7 +78,7 @@ Funds will be disbursed to approved projects in ZEC currency, in a lump sum.
 
 **[TODO: FUNDING AMOUNTS]**
 
-**[TODO: Distinguish between amounts per grant and total grant program allotment, clarify that funds are "discretionary" for academics]**
+*At least $125k, possibly more with sponsorship with organizations outside of the Foundation. This represents the total amount of grant funding available for all projects this round. These funds are considered "discretionary" for those that are academic researchers.*
 
 Note that—depending on your country of residence—taxes may be due on your grant award when they are received and/or when your ZEC is sold.
 
