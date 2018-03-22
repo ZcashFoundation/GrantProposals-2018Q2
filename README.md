@@ -25,7 +25,7 @@ The new Zcash Foundation Grants aim for a systematic, forward-looking mechanism 
 1. The proposer files a *pre-proposal* in this dedicated Github repository: https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues The should explain the tentative proposal–informally but in detail. This must be done by **April 27th, 2018.** 
 1. Public discussion will ensue in comments on the *pre-proposal*. The discussion will hopefully include support, critique, suggestions for improvements, and pointers to relevant resources.
 1. The Zcash Foundation Grant Review committee will, following this discussion, inform proposers whether they are invited to submit a full proposal by **May 18th, 2018**. This invitation is advisory, and indicates the committee's evaluation of whether it is likely that a submission along the lines outlined in pre-proposal can be strong candidate for funding. Whether to proceed with the submission remains at the discretion of the proposers.
-1. Subsequently, and no later than **June 1st, 2018**: the proposer will post a formal stand-alone *Submission* document, as an attachment in the issue. The *Submission* should summarize the official proposal, following the structure outlined below. The proposer may revise the *Submission*, e.g., to address ongoing feedback, by filing new versions as attachments in the *Issue*, until the *Submission* Deadline of **June 15th, 2018.**
+1. Subsequently, and no later than **June 15th, 2018**: the proposer will post a formal stand-alone *Submission* document, as an attachment in the *Issue*. The *Submission* should summarize the official proposal, following the structure outlined below. We strongly encourage an earlier draft *Submission* well in advance of this date, as the proposer may decide to revise the *Submission* to address ongoing feedback. New versions are always accepted as attachments in the *Issue*, but only the last version submitted on or before **June 15th, 2018** will be considered by the Grant Review Committee.
 1. After the *Submission* Deadline, the Zcash Foundation Grant Review Committee will convene to make its funding decision, based on the submissions, the community feedback gathered in the issues, and possibly other consultation.
 
 ## Structure of the Submission
@@ -100,8 +100,7 @@ Review committee members are allowed to submit proposals, but if a member of the
 
 * 1 April 2018: Call for proposals released
 * 27 April 2018: Filing deadline (to open a *pre-proposal* Issue in this repository)
-* 1 June 2018: Draft *Submission* deadline
-* 15 June 2018: Final *Submission* deadline
+* 15 June 2018: Final *Submission* deadline, revisions allowed until this date
 * July 2018: Funding decisions
 
 ## Moderation and Code of Conduct
