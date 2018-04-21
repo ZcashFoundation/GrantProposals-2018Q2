@@ -28,7 +28,7 @@ The new Zcash Foundation Grants aim for a systematic, forward-looking mechanism 
 
 ## Structure of the Submission
 
-The formal submission document should be be structured as follows:
+The formal submission document should be structured as follows:
 
 **Motivation and overview**
 
@@ -66,7 +66,7 @@ GitHub issues are great for public discussion but the review committee occasiona
 
 ## Progress Reports
 
-Funded projects will be required to submit **periodic progress reports every month** to the [general Zcash Foundation mailing list.](https://lists.z.cash.foundation/mailman/listinfo/general), and **a more comprehensive report 6 months after receiving funding**—for the sake of transparency, ease of locating products, and evaluating future proposals from the same proposers. Additionally, at the *Zcash Foundation Grant Review Committe's* discretion, funding may not be fully granted until successful completion of initial progress reports.
+Funded projects will be required to submit **periodic progress reports every month** to the [general Zcash Foundation mailing list.](https://lists.z.cash.foundation/mailman/listinfo/general), and **a more comprehensive report 6 months after receiving funding**—for the sake of transparency, ease of locating products, and evaluating future proposals from the same proposers. Additionally, at the *Zcash Foundation Grant Review Committee's* discretion, funding may not be fully granted until successful completion of initial progress reports.
 
 ## Payment
 
@@ -89,7 +89,7 @@ The Grant Review Committee consists of:
 * Gibson Ashpool aka mineZcash (zcashcommunity.com) http://zcashcommunity.com
 * Brandon Goodell (Monero Research Lab) https://twitter.com/BGGoodell
 * Alicia Naumoff (Blockchain Institute): https://twitter.com/alc_nmff
-* Alexander Chepurnoy (IOHK, St Petersburg National Research Univeristy): http://chepurnoy.org/
+* Alexander Chepurnoy (IOHK, St Petersburg National Research University): http://chepurnoy.org/
 
 ### Conflict of Interest Policy
 
