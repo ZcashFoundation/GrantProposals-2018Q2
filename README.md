@@ -2,8 +2,6 @@
 
 The Zcash Foundation is offering grants to fund projects proposed and carried out by Zcash community members, similar to the [2017Q4 Grant Program](https://github.com/ZcashFoundation/GrantProposals-2017Q4).
 
-**Please note: we are in the initial stages of planning Q2's grant program—the program has not yet received board approval—and all details haven't been established yet (review committee, important dates, money to disburse, etc.). But the proposal process will be very similar to before, so feel free to contirbute issues/proposals early, and we'll be sure to broadcast when final dates have been selected.**
-
 ## Scope
 
 We are interested in funding proposals that support both the [Mission](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/MISSION.md) and [Values](https://github.com/ZcashFoundation/ZcashFoundation/blob/master/VALUES.md) of the [Zcash Foundation](https://z.cash.foundation). The scope of activities is broad, and can include: software development (e.g., wallet software, libraries, etc.), infrastructure development and maintenance (e.g., hosting forums and block explorer services, etc.), education and outreach, science and research, and many more. It is expected that projects will maintain an open process and—if applicable—will release code as open source.
@@ -22,9 +20,9 @@ The new Zcash Foundation Grants aim for a systematic, forward-looking mechanism 
 
 ## The Proposal Process
 
-1. The proposer files a *pre-proposal* in this dedicated Github repository: https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues The should explain the tentative proposal–informally but in detail. This must be done by **April 27th, 2018.** 
+1. The proposer files a *pre-proposal* in this dedicated Github repository: https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues The should explain the tentative proposal–informally but in detail. This must be done by **May 18th, 2018.** 
 1. Public discussion will ensue in comments on the *pre-proposal*. The discussion will hopefully include support, critique, suggestions for improvements, and pointers to relevant resources.
-1. The Zcash Foundation Grant Review committee will, following this discussion, inform proposers whether they are invited to submit a full proposal by **May 18th, 2018**. This invitation is advisory, and indicates the committee's evaluation of whether it is likely that a submission along the lines outlined in pre-proposal can be strong candidate for funding. Whether to proceed with the submission remains at the discretion of the proposers.
+1. The Zcash Foundation Grant Review committee will, following this discussion, inform proposers whether they are invited to submit a full proposal by **May 30th, 2018**. This invitation is advisory, and indicates the committee's evaluation of whether it is likely that a submission along the lines outlined in pre-proposal can be strong candidate for funding. Whether to proceed with the submission remains at the discretion of the proposers.
 1. Subsequently, and no later than **June 15th, 2018**: the proposer will post a formal stand-alone *Submission* document, as an attachment in the *Issue*. The *Submission* should summarize the official proposal, following the structure outlined below. We strongly encourage an earlier draft *Submission* well in advance of this date, as the proposer may decide to revise the *Submission* to address ongoing feedback. New versions are always accepted as attachments in the *Issue*, but only the last version submitted on or before **June 15th, 2018** will be considered by the Grant Review Committee.
 1. After the *Submission* Deadline, the Zcash Foundation Grant Review Committee will convene to make its funding decision, based on the submissions, the community feedback gathered in the issues, and possibly other consultation.
 
@@ -50,7 +48,7 @@ What would your project look like if successful, and how would we be able to tel
 
 **Security considerations**
 
-What are the implications of this project to the privacy, integrity, availability and decentralization of Zcash? Does it create, or mitigate, potential attacks? Is user education needed to use it securely? This is especially relevant for technical projects.
+What are the implications of this project to the privacy, integrity, availability and decentralization of Zcash (or other cryptocurrencies, if applicable)? Does it create, or mitigate, potential attacks? Is user education needed to use it securely? This is especially relevant for technical projects.
 
 **Schedule**
 
@@ -76,7 +74,7 @@ Funds will be disbursed to approved projects in ZEC currency, in a lump sum.
 
 ## Available Funding
 
-*At least $125k, possibly more with sponsorship with organizations outside of the Foundation. This represents the total amount of grant funding available for all projects this round. These funds are considered "discretionary" for those that are academic researchers.*
+**$250,000 total**, with $125,000 funded by the Zcash Foundation and $125,000 funded by the [Blockchain Institute](http://blockchaininstitute.io/). This represents the total amount of grant funding available for all projects this round. These funds are considered "discretionary" for those that are academic researchers.
 
 Note that—depending on your country of residence—taxes may be due on your grant award when they are received and/or when your ZEC is sold.
 
@@ -87,7 +85,11 @@ Funding decisions will be made by a *Zcash Foundation Grant Review Committee*, a
 The Grant Review Committee consists of:
 
 * Committee Chair Eran Tromer (Zcash, Tel Aviv University, Columbia University) https://tau.ac.il/~tromer
-* **[TODO: GRANT COMMITTEE MEMBERS]**
+* Dimitris Apostolou (Zcash Community) http://www.dimitrisapostolou.com/
+* Gibson Ashpool aka mineZcash (zcashcommunity.com) http://zcashcommunity.com
+* Brandon Goodell (Monero Research Lab) https://twitter.com/BGGoodell
+* Alicia Naumoff (Blockchain Institute): https://twitter.com/alc_nmff
+* Alexander Chepurnoy (IOHK, St Petersburg National Research Univeristy): http://chepurnoy.org/
 
 ### Conflict of Interest Policy
 
@@ -98,8 +100,8 @@ Review committee members are allowed to submit proposals, but if a member of the
 
 ## Important Dates
 
-* 1 April 2018: Call for proposals released
-* 27 April 2018: Filing deadline (to open a *pre-proposal* Issue in this repository)
+* 20 April 2018: Call for proposals released
+* 18 May 2018: Filing deadline (to open a *pre-proposal* Issue in this repository)
 * 15 June 2018: Final *Submission* deadline, revisions allowed until this date
 * July 2018: Funding decisions
 
@@ -114,6 +116,7 @@ Pseudonymous submissions are permitted. However, note that one of the evaluation
 Need help writing grant proposals? Check these helpful links:
 
 https://www.thebalance.com/how-to-write-a-grant-proposal-2501980
+
 http://www.design.caltech.edu/erik/Misc/Heilmeier_Questions.html
 
-For questions regarding the Grant Program, contact Josh Cincinnati: josh [at] z.cash.foundation .
+For questions regarding the Grant Program, contact Josh Cincinnati: josh [at] z[dot]cash[dot]foundation 
