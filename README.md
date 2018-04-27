@@ -117,7 +117,7 @@ Need help writing grant proposals? Check these helpful links:
 
 https://www.thebalance.com/how-to-write-a-grant-proposal-2501980
 
-http://www.design.caltech.edu/erik/Misc/Heilmeier_Questions.html
+http://www.ittc.ku.edu/EECS/EECS_541/Heilmeier_Questions.pdf
 
 For questions regarding the Grant Program, contact Josh Cincinnati via email: josh [at] z[dot]cash[dot]foundation 
 
